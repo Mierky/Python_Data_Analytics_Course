@@ -52,8 +52,8 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 1. What are the most demanded skills for the top 3 most popular data roles? 
 
 ### Results:
-![Visualization of Top Skills](3_Project\Images\skill_demand.png) 
-*For better understanding of the code, please visit [2_Skill_Demand.ipynb](3_Project\2_Skill_Demand.ipynb)*
+![Visualization of Top Skills](3_Project/Images/skill_demand.png) 
+*For better understanding of the code, please visit [2_Skill_Demand.ipynb](3_Project/2_Skill_Demand.ipynb)*
 
 ### Insights:
 * **SQL and Python:** These are critical skills across all three roles, though their demand varies by role.
@@ -67,8 +67,8 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 2. How are in-demand skills trending for Data Analysts? 
 
 ### Results:
-![Visualization of Trending Skills for Data Analysts](3_Project\Images\skill_trend.png) 
-*For better understanding of the code, please visit [3_Skill_Trend.ipynb](3_Project\3_Skill_Trend.ipynb)*
+![Visualization of Trending Skills for Data Analysts](3_Project/Images/skill_trend.png) 
+*For better understanding of the code, please visit [3_Skill_Trend.ipynb](3_Project/3_Skill_Trend.ipynb)*
 
 ### Insights:
 * **High Demand Skills:** Excel and SQL are consistently the most requested skills for Data Analysts in Romania, highlighting their importance in the field.
@@ -81,12 +81,12 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 ### Results:
 ### > Salary Distribution
-![Visualization of Salary Distribution](3_Project\Images\salary_analysis_1.png) 
-*For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project\4_Salary_Analysis.ipynb)*
+![Visualization of Salary Distribution](3_Project/Images/salary_analysis_1.png) 
+*For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)*
 
 ### > Highest Paid Skills and Most In-Demand for Data Analysts
-![Visualization of Highest Paid & In-Demand Skills for Data Analysts](3_Project\Images\salary_analysis_2.png) 
-*For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project\4_Salary_Analysis.ipynb)*
+![Visualization of Highest Paid & In-Demand Skills for Data Analysts](3_Project/Images/salary_analysis_2.png) 
+*For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)*
 
 ### Insights:
 ### > Salary Distribution
@@ -105,8 +105,8 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 4. What are the optimal skills to learn for Data Analysts?
 
 ### Results:
-![Visualization of Optimal Skills to learn for Data Analysts](3_Project\Images\optimal_skills.png) 
-*For better understanding of the code, please visit [5_Optimal_Skills.ipynb](3_Project\5_Optimal_Skills.ipynb)*
+![Visualization of Optimal Skills to learn for Data Analysts](3_Project/Images/optimal_skills.png) 
+*For better understanding of the code, please visit [5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)*
 
 ### Insights:
 - **Optimal Skills for High Earnings:** Specializing in JavaScript, Tableau, Oracle, and Azure can lead to higher earnings, albeit with fewer job opportunities. These skills are beneficial for data analysts aiming for top-tier salaries.
