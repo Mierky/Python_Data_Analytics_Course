@@ -52,7 +52,8 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 1. What are the most demanded skills for the top 3 most popular data roles? 
 
 ### Results:
-![Visualization of Top Skills](3_Project/Images/skill_demand.png) 
+![Visualization of Top Skills](3_Project/Images/skill_demand.png)
+ 
 *For better understanding of the code, please visit [2_Skill_Demand.ipynb](3_Project/2_Skill_Demand.ipynb)*
 
 ### Insights:
@@ -67,7 +68,8 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 ## 2. How are in-demand skills trending for Data Analysts? 
 
 ### Results:
-![Visualization of Trending Skills for Data Analysts](3_Project/Images/skill_trend.png) 
+![Visualization of Trending Skills for Data Analysts](3_Project/Images/skill_trend.png)
+
 *For better understanding of the code, please visit [3_Skill_Trend.ipynb](3_Project/3_Skill_Trend.ipynb)*
 
 ### Insights:
@@ -81,11 +83,13 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 ### Results:
 ### > Salary Distribution
-![Visualization of Salary Distribution](3_Project/Images/salary_analysis_1.png) 
+![Visualization of Salary Distribution](3_Project/Images/salary_analysis_1.png)
+
 *For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)*
 
 ### > Highest Paid Skills and Most In-Demand for Data Analysts
-![Visualization of Highest Paid & In-Demand Skills for Data Analysts](3_Project/Images/salary_analysis_2.png) 
+![Visualization of Highest Paid & In-Demand Skills for Data Analysts](3_Project/Images/salary_analysis_2.png)
+
 *For better understanding of the code, please visit [4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)*
 
 ### Insights:
@@ -106,6 +110,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 ### Results:
 ![Visualization of Optimal Skills to learn for Data Analysts](3_Project/Images/optimal_skills.png) 
+
 *For better understanding of the code, please visit [5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)*
 
 ### Insights:
